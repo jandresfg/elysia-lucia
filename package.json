@@ -7,7 +7,8 @@
   },
   "dependencies": {
     "elysia": "latest",
-    "lucia": "^2.7.1"
+    "lucia": "^2.7.1",
+    "prisma": "^5.4.2"
   },
   "devDependencies": {
     "bun-types": "latest"
